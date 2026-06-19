@@ -1,4 +1,4 @@
-# Iron & Chrome - Custom Motorcycle Shop Website
+# RICHROY MOTORS
 
 A modern, responsive website for a traditional motorcycle custom build shop.
 
